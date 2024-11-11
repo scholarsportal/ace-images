@@ -1,0 +1,8 @@
+opencv-python
+numpy
+scipy
+pillow
+pytesseract
+pdf2image
+
+# sudo apt-get install tessaract-ocr
